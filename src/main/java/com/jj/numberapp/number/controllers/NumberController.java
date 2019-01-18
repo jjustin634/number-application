@@ -15,4 +15,10 @@ public class NumberController {
     void getBubbleSort() {
         NumberService.getBubbleSort();
     }
+
+    @RequestMapping(value= "/binarysearch", method = RequestMethod.GET)
+    public @ResponseBody
+    void getBinarySearch() {
+        NumberService.getFavoriteNumber();
+    }
 }
