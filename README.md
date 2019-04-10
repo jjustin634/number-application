@@ -3,4 +3,4 @@
 *Learning Spring with RESTful API*
 
 
-* https://www.linkedin.com/in/justin-johnson-413a93169/ 
+*Using RESTapi calls with service search and sorting algorithms
