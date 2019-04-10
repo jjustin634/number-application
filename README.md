@@ -3,4 +3,4 @@
 *Learning Spring with RESTful API*
 
 
-Using RESTapi calls with service search and sorting algorithms
+Using RESTful services with search and sorting algorithms
